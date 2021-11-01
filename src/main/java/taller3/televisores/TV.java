@@ -58,6 +58,10 @@ public class TV {
 		return canal;
 	}
 	
+	public void setNumTV(int num) {
+		numTV = num;
+	}
+	
 	public int getNumTV() {
 		return numTV;
 	}
